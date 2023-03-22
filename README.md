@@ -1,6 +1,7 @@
 # practica_github
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Lucia Souto
 =======
 
@@ -17,3 +18,8 @@ Lucia Souto
 
 Yeferson soy yo 
 >>>>>>> origin/Yefer
+=======
+
+Fede soy yo :P
+
+>>>>>>> origin/fede-cannas
