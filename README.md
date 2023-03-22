@@ -1,5 +1,6 @@
 # practica_github
 <<<<<<< HEAD
+<<<<<<< HEAD
 Lucia Souto
 =======
 
@@ -11,3 +12,8 @@ Lucia Souto
 
 # Diego Fernandez
 >>>>>>> origin/Diego
+=======
+
+
+Yeferson soy yo 
+>>>>>>> origin/Yefer
